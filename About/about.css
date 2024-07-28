@@ -1,7 +1,7 @@
 .About {
   background-color: #8b0000;
   width: 100%;
-  height: 100vh;
+  height: 800px;
 }
 
 .header {
@@ -97,16 +97,18 @@ ul li {
   background-color: white;
   border-radius: 5px;
   margin-left: 8%;
+  margin-top: 10%;
 }
 .siswa h5 {
   color: white;
   margin-left: 10%;
+  margin-top: 10px;
   font-weight: bold;
 }
 .siswa p {
   color: white;
   margin-left: 10%;
-  margin-top: -10px;
+  margin-top: 10px;
   font-size: 14px;
   width: 270px;
 }
@@ -116,18 +118,17 @@ ul li {
   background-color: white;
   border-radius: 5px;
   margin-left: 37%;
-  margin-top: 35px;
 }
 .tentangSmk h5 {
   color: white;
   margin-left: 40%;
   font-weight: bold;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 .tentangSmk p {
   color: white;
   margin-left: 40%;
-  margin-top: -10px;
+  margin-top: 10px;
   font-size: 13px;
   width: 270px;
 }
@@ -136,7 +137,7 @@ ul li {
   background-color: white;
   border-radius: 5px;
   margin-left: 8%;
-  margin-top: 20%;
+  margin-top: 15%;
 }
 .pelajaran h5 {
   color: white;
@@ -147,7 +148,8 @@ ul li {
 .pelajaran p {
   color: white;
   margin-left: 10%;
-  margin-top: -10px;
+  margin-top: 10px;
   font-size: 13px;
   width: 270px;
+  font-weight: bold;
 }
