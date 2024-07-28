@@ -1,0 +1,153 @@
+.About {
+  background-color: #8b0000;
+  width: 100%;
+  height: 100vh;
+}
+
+.header {
+  margin-bottom: 15%;
+  margin-left: 15%;
+  color: white;
+  position: relative;
+  top: 10%;
+}
+.sub-header h4 {
+  margin-left: 5%;
+  font-size: 20px;
+  color: white;
+}
+.image img {
+  width: 100%;
+  max-width: 25%;
+  margin-left: 67%;
+  border-radius: 15px;
+  top: 30%;
+  margin-bottom: -13%;
+  position: relative;
+  z-index: 9999999999999;
+}
+.lingkaran-1 {
+  width: 250px;
+  height: 250px;
+  border: 2px solid lightblue;
+  border-radius: 50%;
+  position: absolute;
+  right: 20%;
+  top: 20%;
+  /* z-index: -1; */
+}
+.lingkaran-2 {
+  width: 250px;
+  height: 250px;
+  border: 2px solid lightblue;
+  border-radius: 50%;
+  position: absolute;
+  right: 5%;
+  top: 50%;
+}
+
+/* .siswa img { */
+/* width: 50px;
+  position: absolute;
+  display: inline-flex;
+  margin-top: -4%;
+  margin-left: 8%;
+  background-color: white;
+  border-radius: 5px;
+}
+.siswa h5 {
+  color: white;
+  margin-left: 10%;
+  margin-top: -10%;
+  font-weight: bold;
+}
+.siswa p {
+  color: white;
+  width: 300px;
+  margin-top: -10px;
+  margin-left: 10%;
+  font-size: 14px;
+}
+.tentangSmk img {
+  width: 40px;
+  position: absolute;
+  display: inline-flex;
+  margin-top: -50px;
+  margin-left: 37%;
+}
+
+.tentangSmk h5 {
+  margin-top: -118px;
+  margin-left: 40%;
+  font-weight: bold;
+}
+.tentangSmk p {
+  margin-left: 40%;
+  width: 300px;
+  font-size: 14px;
+} */
+
+ul li {
+  list-style: none;
+  margin-top: -15%;
+  z-index: 11111;
+}
+.siswa img {
+  width: 50px;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 8%;
+}
+.siswa h5 {
+  color: white;
+  margin-left: 10%;
+  font-weight: bold;
+}
+.siswa p {
+  color: white;
+  margin-left: 10%;
+  margin-top: -10px;
+  font-size: 14px;
+  width: 270px;
+}
+
+.tentangSmk img {
+  width: 40px;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 37%;
+  margin-top: 35px;
+}
+.tentangSmk h5 {
+  color: white;
+  margin-left: 40%;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.tentangSmk p {
+  color: white;
+  margin-left: 40%;
+  margin-top: -10px;
+  font-size: 13px;
+  width: 270px;
+}
+.pelajaran img {
+  width: 50px;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 8%;
+  margin-top: 20%;
+}
+.pelajaran h5 {
+  color: white;
+  margin-left: 10%;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.pelajaran p {
+  color: white;
+  margin-left: 10%;
+  margin-top: -10px;
+  font-size: 13px;
+  width: 270px;
+}

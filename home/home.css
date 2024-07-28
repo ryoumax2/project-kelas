@@ -1,0 +1,66 @@
+.biarbulet {
+  border-radius: 100%;
+  width: 35px;
+  height: 40px;
+  margin-left: 10%;
+}
+
+.logobulet {
+  width: 180px;
+  height: 180px;
+  background-color: rgb(0, 162, 255);
+  position: absolute;
+  border-radius: 50%;
+  left: 15%;
+  top: 40%;
+}
+.text-home {
+  z-index: 99999999;
+}
+.XII {
+  width: 24px;
+  height: 24px;
+
+  border-radius: 100%;
+}
+
+.logo {
+  margin-top: 2%;
+}
+
+.logosija {
+  width: 20%;
+  height: 80px;
+}
+.logosija img {
+  width: 50px;
+  height: 100px;
+}
+.container {
+  position: relative;
+}
+.image-right {
+  position: absolute;
+  right: 15%;
+  top: 28%;
+  transform: translateY(-20%);
+}
+.sija2 {
+  position: absolute;
+  right: 30%;
+  top: 64%;
+  transform: translateY(-20%);
+}
+
+.namajurusan {
+  position: absolute;
+  right: 7%;
+  top: 73%;
+  transform: translateY(-20%);
+}
+.siswa {
+  width: 450px;
+  /* height: 250px; */
+  right: 7%;
+  top: 43%;
+}
