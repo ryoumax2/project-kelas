@@ -1,0 +1,202 @@
+.biarbulet {
+  border-radius: 100%;
+  width: 35px;
+  height: 40px;
+  margin-left: 10%;
+}
+
+.Navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999999999999999999; /* Ensure the navbar stays on top of other elements */
+}
+
+.navbar ul li {
+  margin-top: 0;
+  position: relative;
+  z-index: 999999999999999999; /* Ensure the navbar stays on top of other elements */
+}
+
+.logobulet {
+  width: 180px;
+  height: 180px;
+  background-color: rgb(0, 162, 255);
+  position: absolute;
+  border-radius: 50%;
+  left: 15%;
+  top: 40%;
+}
+.text-home {
+  z-index: 99999999;
+}
+.XII {
+  width: 24px;
+  height: 24px;
+
+  border-radius: 100%;
+}
+
+.logo {
+  margin-top: 2%;
+}
+
+.logosija {
+  width: 20%;
+  height: 80px;
+}
+.logosija img {
+  width: 50px;
+  height: 100px;
+}
+.container {
+  position: relative;
+}
+.image-right {
+  position: absolute;
+  right: 15%;
+  top: 28%;
+  transform: translateY(-20%);
+}
+.sija2 {
+  position: absolute;
+  right: 30%;
+  top: 64%;
+  transform: translateY(-20%);
+}
+
+.namajurusan {
+  position: absolute;
+  right: 7%;
+  top: 73%;
+  transform: translateY(-20%);
+}
+.siswa {
+  width: 450px;
+  /* height: 250px; */
+  right: 7%;
+  top: 43%;
+}
+
+/* ABOUT STYLE */
+
+.About {
+  background-color: #8b0000;
+  width: 100%;
+  height: 800px;
+}
+
+.header {
+  margin-bottom: 13%;
+  margin-left: 15%;
+  color: white;
+  position: relative;
+  top: 10%;
+}
+.sub-header h4 {
+  margin-left: 5%;
+  font-size: 40px;
+  color: white;
+  font-weight: bold;
+}
+.image img {
+  width: 100%;
+  max-width: 25%;
+  margin-left: 67%;
+  border-radius: 15px;
+  top: 30%;
+  margin-bottom: -13%;
+  position: relative;
+  z-index: 9999999999999;
+}
+.lingkaran-1 {
+  width: 250px;
+  height: 250px;
+  border: 2px solid lightblue;
+  border-radius: 50%;
+  position: absolute;
+  right: 20%;
+  top: 130%;
+  /* z-index: -1; */
+}
+.lingkaran-2 {
+  width: 250px;
+  height: 250px;
+  border: 2px solid lightblue;
+  border-radius: 50%;
+  position: absolute;
+  right: 5%;
+  top: 160%;
+}
+
+ul li {
+  list-style: none;
+  margin-top: -15%;
+  z-index: 11111;
+}
+.siswa img {
+  width: 50px;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 8%;
+  margin-top: -5%;
+  position: absolute;
+}
+.siswa h5 {
+  color: white;
+  margin-left: 30%;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.siswa p {
+  color: white;
+  margin-left: 30%;
+  margin-top: 10px;
+  font-size: 14px;
+  width: 270px;
+}
+
+.tentangSmk img {
+  width: 40px;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 37%;
+  margin-top: 1%;
+}
+.tentangSmk h5 {
+  color: white;
+  margin-left: 40%;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.tentangSmk p {
+  color: white;
+  margin-left: 40%;
+  margin-top: 10px;
+  font-size: 13px;
+  width: 270px;
+}
+.pelajaran img {
+  width: 50px;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 8%;
+  margin-top: 20%;
+}
+.pelajaran h5 {
+  color: white;
+  margin-left: 10%;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.pelajaran p {
+  color: white;
+  margin-left: 10%;
+  margin-top: 10px;
+  font-size: 13px;
+  width: 270px;
+  font-weight: bold;
+}
+
+/* ABOUT STYLE - SELESAI */
